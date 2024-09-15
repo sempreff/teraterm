@@ -9,8 +9,7 @@
 				}
 			},
 			"text": {
-				"default": "Tera Term (Ver 5.3), TTSSH (Ver 3.3)",
-				"jp": "Tera Term (Ver 5.3), TTSSH (Ver 3.3)"
+				"default": "Tera Term (Ver 5.3), TTSSH (Ver 3.3)\r\n\r\nMajor changes\r\n* add support for negative value to spacing of characters.\r\n* add macro commands for handle \"password file which is encrypted by aes-256-ctr.\"\r\n* add support for SSH2 multiple required authentication."
 			},
 			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v5.3"
 		},
@@ -23,7 +22,7 @@
 				}
 			},
 			"text": {
-				"default": "Tera Term (Ver 5.2), TTSSH (Ver 3.2)"
+				"default": "Tera Term (Ver 5.2), TTSSH (Ver 3.2)\r\n\r\nMajor changes\r\n* Delimiter characters can use Unicode.\r\n* Some issues from 5.0 have been fixed."
 			},
 			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v5.2"
 		},
@@ -36,7 +35,7 @@
 				}
 			},
 			"text": {
-				"default": "Tera Term (Ver 5.1), TTSSH (Ver 3.1)"
+				"default": "Tera Term (Ver 5.1), TTSSH (Ver 3.1)\r\n\r\nMajor changes\r\n* add support for \"strict key exchange\" extension of OpenSSH. For Terrapin Attack (CVE-2023-48795)."
 			},
 			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v5.1"
 		},
@@ -49,7 +48,7 @@
 				}
 			},
 			"text": {
-				"default": "Tera Term (Ver 4.108), TTSSH (Ver 2.94)"
+				"default": "Tera Term (Ver 4.108), TTSSH (Ver 2.94)\r\n\r\nMajor changes\r\n* add support for \"strict key exchange\" extension of OpenSSH. For Terrapin Attack (CVE-2023-48795)."
 			},
 			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v4.108"
 		},
@@ -62,7 +61,7 @@
 				}
 			},
 			"text": {
-				"default": "Tera Term (Ver 5.0)"
+				"default": "Tera Term (Ver 5.0), TTSSH (Ver 3.0)\r\n\r\nMajor changes\r\n* Changed internal processing to Unicode.\r\n* Changed the folders to read setup files, the folder to save log files.\r\n* ...and more, bunch of updates."
 			},
 			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v5.0"
 		},
@@ -75,9 +74,10 @@
 				}
 			},
 			"text": {
-				"default": "Tera Term (Ver 4.107)"
+				"default": "Tera Term (Ver 4.107), TTSSH (Ver 2.93)\r\n\r\nMajor changes\r\n* Exchanged foreground and background colors of characters that attributes is setted ANSIColor when colors are reversed with DECSCNM set.\r\nadded a setting that can disable corner rounding of VT Window and TEK Window in Windows 11."
 			},
 			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v4.107"
 		}
 	]
 }
+
