@@ -1,0 +1,83 @@
+{
+	"versions": [
+		{
+			"version": {
+				"major": 5,
+				"minor": 3,
+				"text": {
+					"default": "5.3"
+				}
+			},
+			"text": {
+				"default": "Tera Term (Ver 5.3), TTSSH (Ver 3.3)",
+				"jp": "Tera Term (Ver 5.3), TTSSH (Ver 3.3)"
+			},
+			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v5.3"
+		},
+		{
+			"version": {
+				"major": 5,
+				"minor": 2,
+				"text": {
+					"default": "5.2"
+				}
+			},
+			"text": {
+				"default": "Tera Term (Ver 5.2), TTSSH (Ver 3.2)"
+			},
+			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v5.2"
+		},
+		{
+			"version": {
+				"major": 5,
+				"minor": 1,
+				"text": {
+					"default": "5.1"
+				}
+			},
+			"text": {
+				"default": "Tera Term (Ver 5.1), TTSSH (Ver 3.1)"
+			},
+			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v5.1"
+		},
+		{
+			"version": {
+				"major": 4,
+				"minor": 108,
+				"text": {
+					"default": "4.108"
+				}
+			},
+			"text": {
+				"default": "Tera Term (Ver 4.108), TTSSH (Ver 2.94)"
+			},
+			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v4.108"
+		},
+		{
+			"version": {
+				"major": 5,
+				"minor": 0,
+				"text": {
+					"default": "5.0"
+				}
+			},
+			"text": {
+				"default": "Tera Term (Ver 5.0)"
+			},
+			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v5.0"
+		},
+		{
+			"version": {
+				"major": 4,
+				"minor": 107,
+				"text": {
+					"default": "4.107"
+				}
+			},
+			"text": {
+				"default": "Tera Term (Ver 4.107)"
+			},
+			"url": "https://github.com/TeraTermProject/teraterm/releases/tag/v4.107"
+		}
+	]
+}
