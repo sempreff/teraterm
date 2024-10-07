@@ -3,6 +3,19 @@
 		{
 			"version": {
 				"major": 5,
+				"minor": 4,
+				"text": {
+					"default": "5.4-dev-20240927_074206-dcda4abad-appveryor-snapshot"
+				}
+			},
+			"text": {
+				"default": "Tera Term (Ver 5.4-dev-20240927)\r\n\r\nAppVeyor snapshot (expires after 1 month)\r\n* date: 2024.09.27 07:42:06\r\n* hash: dcda4abad\r\n\r\nMerge pull request #355 from TeraTermProject/#340-changelog"
+			},
+			"url": "https://ci.appveyor.com/project/teraterm/github-main/builds/50685487/artifacts"
+		},
+		{
+			"version": {
+				"major": 5,
 				"minor": 3,
 				"text": {
 					"default": "5.3"
